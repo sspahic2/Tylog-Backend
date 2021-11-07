@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Tylog-Backend/v16/.suo
+/TylogAPI/.vs/TylogAPI/v16/.suo
+/TylogAPI/API/Controllers/WeatherForecastController.cs
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
